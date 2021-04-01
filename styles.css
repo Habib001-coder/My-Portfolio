@@ -1,0 +1,52 @@
+h1{
+    text-align: center;
+    background-color: chartreuse;
+}
+h4{
+    text-align: center;
+    background-color: chocolate;
+}
+ul{
+    background-color: cyan;
+}
+ul{
+    text-align: right;
+    text-shadow: darkorange;
+    flex-direction: column;
+    background-image: url(./FB_IMG_15376451785568861.jpg);
+    height: 900px;
+    
+}
+ol{
+    background-image: url(./FB_IMG_15376451785568861.jpg);
+    background-repeat: no-repeat;
+}
+body{
+    background-repeat: no-repeat;
+    padding: 0px;
+    margin: 10px;
+
+
+}
+#homepage{
+    padding-top: 20px;
+    margin-top: 10px;
+    text-align: left;
+
+
+}
+#myphoto{
+    display: flex;
+    width: 120%;
+    height: 90%;
+    border: 50px solid black;
+    box-shadow: 2px 2px 20px gray; 
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    width: 100%;
+    height: 100%;
+    border: 10px solid white;
+    box-shadow: 2px 2px 20px gray;
+    
+}
