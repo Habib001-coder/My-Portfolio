@@ -28,7 +28,6 @@ ul l{
 }
 #about-me{
     display: flex;
-    text-align: center;
     display: flex;
     flex-direction: column;
     text-align: left;
