@@ -3,6 +3,10 @@ h1{
     background-color: chartreuse;
     height: 100px;
 }
+.portland{
+    background-color: orangered;
+    text-align: center;
+}
 h4{
     text-align: center;
     background-color:white;
@@ -11,7 +15,6 @@ h4{
 ul{
     text-align: right;
     height: 100px;
-    background-color: chartreuse;
     
 }  
 #myphoto{
