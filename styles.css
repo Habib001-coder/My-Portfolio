@@ -42,6 +42,35 @@ ul l{
     display: flex;
     flex-direction: row-reverse;
 }
+#photo{
+background-color: lightgrey;
+width: 800px;
+border: 25px solid white;
+display: flex;
+padding: 20px;
+margin: 10px;
+margin-right: 3em;
+text-align:left;
+position: relative;
+}
+#homepage{
+    display: flex;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    width: 1100%;
+    height: 70%;
+    border: 10px solid white;
+    box-shadow: 30px 30px 20px white;  
+    padding: 20px;
+}
+
+.home{
+    background-color: white;
+    display: flex;
+    flex-direction: row-reverse;
+}
 ol{
     background-image: url(./FB_IMG_15376451785568861.jpg);
     background-repeat: no-repeat;
